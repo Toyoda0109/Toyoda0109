@@ -5,4 +5,4 @@
 
 ### Languages and frameworks  
 
-![](https://skillicons.dev/icons?i=html,css,js,java,c, react)
+![](https://skillicons.dev/icons?i=html,css,js,java,c,react)
