@@ -3,7 +3,7 @@
 ・I'm interested in becoming a web engineer.  
 ・I’m currently learning PHP,Java, etc....  
 
-![](https://skillicons.dev/icons?i=php, java)
+![](https://skillicons.dev/icons?i=php,java)
 
 ### Languages and frameworks  
 
