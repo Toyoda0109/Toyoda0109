@@ -7,4 +7,4 @@
 
 ### Languages and frameworks  
 
-![](https://skillicons.dev/icons?i=html,css,js, node.js,java,c,react)
+![](https://skillicons.dev/icons?i=html,css,js,node.js,java,c,react)
